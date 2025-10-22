@@ -1,0 +1,6 @@
+tensorflow>=2.10
+numpy
+pandas
+matplotlib
+gym
+scikit-learn
